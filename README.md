@@ -4,19 +4,19 @@
 Vrinda store wants to create an annual sales report for 2022.So that,Vrinda can understand their customers and grow more sales in 2023.
 
 # Dataset
-Source: Vrinda Store sales data (Excel)
-Duration: January 2022 – December 2022
+- Source: Vrinda Store sales data (Excel)
+- Duration: January 2022 – December 2022
 
-Columns Included:
-Order ID
-Order Date
-Gender
-Age Group
-State
-Channel (Amazon, Flipkart, Meesho, etc.)
-Category
-Sales Amount
-Order Status
+# Columns Included:
+- Order ID
+- Order Date
+- Gender
+- Age Group
+- State
+- Channel (Amazon, Flipkart, Meesho, etc.)
+- Category
+- Sales Amount
+- Order Status
 
 
 # Business Questions:
